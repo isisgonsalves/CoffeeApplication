@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ristretto
+comment0.text=\r\n\ This\ class\ is\ a\ subclass\ of\ Espresso\ Drink\ and\ the\ parent\ class\ of\ many\ other\ drinks.\r\n\ It\ includes\ a\ refined\ toString\ method.\r\n\r\n\ @Isis\ Gonsalves\ 816026980\r\n\ @3/18/2022\r\n
+comment1.params=
+comment1.target=Ristretto()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ristretto\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ To\ String\ method\ that\ calls\ the\ parent\ to\ string\ method\ and\ refines\ it\r\n\ by\ adding\ the\ price.\r\n\r\n\ @return\ class\ name,\ ingredient\ list\ and\ price.\r\n
+numComments=3

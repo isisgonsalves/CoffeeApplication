@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WhippedCream
+comment0.text=\r\n\ This\ class\ a\ subclass\ of\ Cream.\r\n\r\n\ @Isis\ Gonsalves\ 816026980\r\n\ @3/18/2022\r\n
+comment1.params=
+comment1.target=WhippedCream()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WhippedCream\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ An\ accessor\ method\ for\ the\ Price\ of\ the\ ingredient.\r\n\r\n\ @return\ price.\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ingredient
+comment0.text=\r\n\ This\ class\ is\ provides\ a\ toString\ method\ for\ the\ ingredient\ subclasses\ to\ refine.\ \r\n\r\n\ @Isis\ Gonsalves\ 816026980\r\n\ @3/18/2022\r\n
+comment1.params=
+comment1.target=Ingredient()
+comment2.params=price
+comment2.target=Ingredient(double)
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

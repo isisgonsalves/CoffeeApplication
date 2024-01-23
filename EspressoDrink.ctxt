@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=EspressoDrink
+comment1.params=
+comment1.target=EspressoDrink()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EspressoDrink\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getIngredientsList()
+comment2.text=\r\n\ An\ accessor\ method\ for\ the\ ingredient\ array\ list.\r\n\r\n\ @return\ ingredients\ list\r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\r\n\ A\ method\ to\ iterate\ through\ te\ array\ list\ and\ calculate\ a\ running\ total\ price.\r\n\r\n\ @return\ total\ price\r\n
+comment4.params=ingredient
+comment4.target=void\ add(Ingredient)
+comment4.text=\r\n\ A\ method\ that\ adds\ items\ (ingredients)\ to\ the\ array\ list.\r\n\r\n\ @param\ ingredients\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ To\ String\ method\ that\ gets\ the\ name\ of\ the\ class\ amd\ appends\ it\ to\ the\ ingredient\ list.\r\n\r\n\ @return\ \ class\ name\ and\ ingredient\ list.\r\n
+numComments=6
